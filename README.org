@@ -4,7 +4,7 @@ Logging library
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/walpurgisnatch/pero.git   |
-| commit  | {"messa  |
+| commit  | 0d31574  |
 | systems | pero |
 |---------+-------------------------------------------|
 
