@@ -1,0 +1,10 @@
+* pero
+
+Logging library
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/walpurgisnatch/pero.git   |
+| commit  | {"messa  |
+| systems | pero |
+|---------+-------------------------------------------|
+
